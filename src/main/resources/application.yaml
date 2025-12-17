@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mongodbapp
+  mongodb:
+    uri: mongodb+srv://manuelisaacialberto_db_user:zCgFv9JGLYU4FJh7@cluster0.bkaofv4.mongodb.net/?appName=Cluster0
+    database: apptest
